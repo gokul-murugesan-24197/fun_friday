@@ -94,12 +94,13 @@ Wait a few minutes and refresh — your live site link will appear! 🎉
 Here’s a sneak peek of the app:
 
 🧠 Tech Stack
-Tech	Description
-⚛️ React	Frontend framework
-💅 CSS / Tailwind	Styling
-🚀 gh-pages	Deployment
-💻 VS Code	Development Environment
-💡 Features
+| Tech              | Description             |
+| ----------------- | ----------------------- |
+| ⚛️ React          | Frontend framework      |
+| 💅 CSS / Tailwind | Styling                 |
+| 🚀 gh-pages       | Deployment              |
+| 💻 VS Code        | Development Environment |
+
 
 ✅ Random team splitter
 ✅ Clean and responsive UI
@@ -121,9 +122,9 @@ Open a Pull Request
 🧑‍💻 Author
 
 👤 Gokul Murugesan
-📧 Email Me
+📧 mgokul2411@gmail.com
 
-🌐 GitHub Profile
+🌐 [GitHub Profile](https://master-gokul.github.io/portfolio/)
 
 ⭐ Support
 
