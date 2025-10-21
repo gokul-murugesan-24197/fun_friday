@@ -10,7 +10,6 @@ export const IndexPage = () => {
         className="app-template" 
         alt="Fun Friday Template" 
       />
-      {/* done */}
     </div>
   );
 };
