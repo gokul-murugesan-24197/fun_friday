@@ -11,6 +11,7 @@ export const IndexPage = () => {
         alt="Fun Friday Template" 
       />
       <div></div>
+      <p>Hi</p>
       <p>dinesh</p>
     </div>
   );
