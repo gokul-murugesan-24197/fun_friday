@@ -10,9 +10,7 @@ export const IndexPage = () => {
         className="app-template" 
         alt="Fun Friday Template" 
       />
-      <div></div>
-      <p>Hi</p>
-      <p>dinesh</p>
+      {/* done */}
     </div>
   );
 };
