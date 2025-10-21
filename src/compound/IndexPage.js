@@ -4,12 +4,14 @@ import './compound.css';
 
 export const IndexPage = () => {
   return (
-    <div className="index-page">
+    <div>
       <img 
         src={template} 
         className="app-template" 
         alt="Fun Friday Template" 
       />
+      <div></div>
+      <p>dinesh</p>
     </div>
   );
 };
